@@ -6,11 +6,11 @@ namespace MMO_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Client Starting...");
+            Console.WriteLine("Server Starting...");
 
 
 
-            Console.WriteLine("Client Shutdown.");
+            Console.WriteLine("Server Shutdown.");
         }
     }
 };

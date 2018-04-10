@@ -10,7 +10,7 @@ namespace MMO_Server
 
 
 
-            Console.WriteLine("Server Shutdown.");
+            Console.WriteLine("Server Shutdown");
         }
     }
 };
